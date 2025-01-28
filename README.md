@@ -2,22 +2,6 @@
 
 This project implements a real-time object detection and tracking system leveraging **OpenCV** and **TensorFlow**. By combining advanced neural network models with efficient image processing techniques, the system ensures reliable performance without compromising on affordability or ease of use.
 
-## Table of Contents
-
-- [Features](#features)
-- [Tools and Techniques](#tools-and-techniques)
-  - [Software](#software)
-  - [Hardware](#hardware)
-  - [Algorithms](#algorithms)
-- [Applications](#applications)
-- [Results](#results)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Future Work](#future-work)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
-
 ## Features
 
 - **Real-Time Detection and Tracking**: Identifies and monitors objects in motion with minimal latency.
